@@ -1,0 +1,75 @@
+F:\C# project\CoachingManagementSystem\CoachingManagementSystem\bin\Debug\CoachingManagementSystem.exe.config
+F:\C# project\CoachingManagementSystem\CoachingManagementSystem\bin\Debug\CoachingManagementSystem.exe
+F:\C# project\CoachingManagementSystem\CoachingManagementSystem\bin\Debug\CoachingManagementSystem.pdb
+F:\C# project\CoachingManagementSystem\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.csprojResolveAssemblyReference.cache
+F:\C# project\CoachingManagementSystem\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.LogInForm.resources
+F:\C# project\CoachingManagementSystem\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.Properties.Resources.resources
+F:\C# project\CoachingManagementSystem\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.csproj.GenerateResource.Cache
+F:\C# project\CoachingManagementSystem\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.exe
+F:\C# project\CoachingManagementSystem\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.pdb
+F:\C# project\CoachingManagementSystem\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.Home.resources
+F:\C# project\CoachingManagementSystem\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.AddNewStudent.resources
+F:\C# project\CoachingManagementSystem\CoachingManagementSystem\bin\Debug\Model.dll
+F:\C# project\CoachingManagementSystem\CoachingManagementSystem\bin\Debug\Model.pdb
+F:\C# project\CoachingManagementSystem\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.ViewStudent.resources
+F:\C# project\CoachingManagementSystem\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.AddUndergraduateInfo.resources
+F:\C# project\CoachingManagementSystem\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.ShowBloodGroup.resources
+F:\C# project\CoachingManagementSystem\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.UnivInfo.resources
+F:\C# project\CoachingManagementSystem\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.StudentNumberInUniv.resources
+F:\C# project\CoachingManagementSystem\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.AddResult.resources
+F:\C# project\CoachingManagementSystem\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.StudentWiseResultPrint.resources
+F:\C# project\CoachingManagementSystem\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.AbsentStudent.resources
+F:\C# project\CoachingManagementSystem\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.BatchWisePrintResult.resources
+F:\C# project\CoachingManagementSystem\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.InsertPayment.resources
+F:\C# project\CoachingManagementSystem\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.IndividualPayment.resources
+F:\C# project\CoachingManagementSystem\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.DueAmount.resources
+D:\CoachingManagementSystem\CoachingManagementSystem\bin\Debug\CoachingManagementSystem.exe.config
+D:\CoachingManagementSystem\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.exe
+D:\CoachingManagementSystem\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.pdb
+D:\CoachingManagementSystem\CoachingManagementSystem\bin\Debug\CoachingManagementSystem.exe
+D:\CoachingManagementSystem\CoachingManagementSystem\bin\Debug\CoachingManagementSystem.pdb
+D:\CoachingManagementSystem\CoachingManagementSystem\bin\Debug\Model.dll
+D:\CoachingManagementSystem\CoachingManagementSystem\bin\Debug\Model.pdb
+D:\CoachingManagementSystem\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.csprojResolveAssemblyReference.cache
+D:\CoachingManagementSystem\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.AbsentStudent.resources
+D:\CoachingManagementSystem\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.AddNewStudent.resources
+D:\CoachingManagementSystem\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.AddResult.resources
+D:\CoachingManagementSystem\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.AddUndergraduateInfo.resources
+D:\CoachingManagementSystem\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.BatchWisePrintResult.resources
+D:\CoachingManagementSystem\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.DueAmount.resources
+D:\CoachingManagementSystem\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.Home.resources
+D:\CoachingManagementSystem\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.IndividualPayment.resources
+D:\CoachingManagementSystem\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.InsertPayment.resources
+D:\CoachingManagementSystem\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.LogInForm.resources
+D:\CoachingManagementSystem\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.Properties.Resources.resources
+D:\CoachingManagementSystem\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.ShowBloodGroup.resources
+D:\CoachingManagementSystem\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.StudentNumberInUniv.resources
+D:\CoachingManagementSystem\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.StudentWiseResultPrint.resources
+D:\CoachingManagementSystem\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.UnivInfo.resources
+D:\CoachingManagementSystem\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.ViewStudent.resources
+D:\CoachingManagementSystem\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.csproj.GenerateResource.Cache
+C:\Users\Laptop Dream\Downloads\Compressed\CoachingManagementSystem\CoachingManagementSystem\bin\Debug\CoachingManagementSystem.exe.config
+C:\Users\Laptop Dream\Downloads\Compressed\CoachingManagementSystem\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.exe
+C:\Users\Laptop Dream\Downloads\Compressed\CoachingManagementSystem\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.pdb
+C:\Users\Laptop Dream\Downloads\Compressed\CoachingManagementSystem\CoachingManagementSystem\bin\Debug\CoachingManagementSystem.exe
+C:\Users\Laptop Dream\Downloads\Compressed\CoachingManagementSystem\CoachingManagementSystem\bin\Debug\CoachingManagementSystem.pdb
+C:\Users\Laptop Dream\Downloads\Compressed\CoachingManagementSystem\CoachingManagementSystem\bin\Debug\Model.dll
+C:\Users\Laptop Dream\Downloads\Compressed\CoachingManagementSystem\CoachingManagementSystem\bin\Debug\Model.pdb
+C:\Users\Laptop Dream\Downloads\Compressed\CoachingManagementSystem\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Laptop Dream\Downloads\Compressed\CoachingManagementSystem\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.AbsentStudent.resources
+C:\Users\Laptop Dream\Downloads\Compressed\CoachingManagementSystem\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.AddNewStudent.resources
+C:\Users\Laptop Dream\Downloads\Compressed\CoachingManagementSystem\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.AddResult.resources
+C:\Users\Laptop Dream\Downloads\Compressed\CoachingManagementSystem\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.AddUndergraduateInfo.resources
+C:\Users\Laptop Dream\Downloads\Compressed\CoachingManagementSystem\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.BatchWisePrintResult.resources
+C:\Users\Laptop Dream\Downloads\Compressed\CoachingManagementSystem\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.DueAmount.resources
+C:\Users\Laptop Dream\Downloads\Compressed\CoachingManagementSystem\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.Home.resources
+C:\Users\Laptop Dream\Downloads\Compressed\CoachingManagementSystem\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.IndividualPayment.resources
+C:\Users\Laptop Dream\Downloads\Compressed\CoachingManagementSystem\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.InsertPayment.resources
+C:\Users\Laptop Dream\Downloads\Compressed\CoachingManagementSystem\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.LogInForm.resources
+C:\Users\Laptop Dream\Downloads\Compressed\CoachingManagementSystem\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.Properties.Resources.resources
+C:\Users\Laptop Dream\Downloads\Compressed\CoachingManagementSystem\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.ShowBloodGroup.resources
+C:\Users\Laptop Dream\Downloads\Compressed\CoachingManagementSystem\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.StudentNumberInUniv.resources
+C:\Users\Laptop Dream\Downloads\Compressed\CoachingManagementSystem\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.StudentWiseResultPrint.resources
+C:\Users\Laptop Dream\Downloads\Compressed\CoachingManagementSystem\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.UnivInfo.resources
+C:\Users\Laptop Dream\Downloads\Compressed\CoachingManagementSystem\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.ViewStudent.resources
+C:\Users\Laptop Dream\Downloads\Compressed\CoachingManagementSystem\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.csproj.GenerateResource.Cache

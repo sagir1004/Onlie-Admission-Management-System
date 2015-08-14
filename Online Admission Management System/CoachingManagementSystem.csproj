@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3A95DE9B-4949-452C-BCE7-0AD5CA166DAC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CoachingManagementSystem</RootNamespace>
+    <AssemblyName>CoachingManagementSystem</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SqlServerCe, Version=4.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AbsentStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AbsentStudent.Designer.cs">
+      <DependentUpon>AbsentStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddNewStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddNewStudent.Designer.cs">
+      <DependentUpon>AddNewStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddResult.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddResult.Designer.cs">
+      <DependentUpon>AddResult.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddUndergraduateInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddUndergraduateInfo.Designer.cs">
+      <DependentUpon>AddUndergraduateInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BatchWisePrintResult.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BatchWisePrintResult.Designer.cs">
+      <DependentUpon>BatchWisePrintResult.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DueAmount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DueAmount.Designer.cs">
+      <DependentUpon>DueAmount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IndividualPayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IndividualPayment.Designer.cs">
+      <DependentUpon>IndividualPayment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InsertPayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InsertPayment.Designer.cs">
+      <DependentUpon>InsertPayment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LogInForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogInForm.Designer.cs">
+      <DependentUpon>LogInForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ShowBloodGroup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowBloodGroup.Designer.cs">
+      <DependentUpon>ShowBloodGroup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StudentNumberInUniv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StudentNumberInUniv.Designer.cs">
+      <DependentUpon>StudentNumberInUniv.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StudentWiseResultPrint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StudentWiseResultPrint.Designer.cs">
+      <DependentUpon>StudentWiseResultPrint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UnivInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UnivInfo.Designer.cs">
+      <DependentUpon>UnivInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewStudent.Designer.cs">
+      <DependentUpon>ViewStudent.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AbsentStudent.resx">
+      <DependentUpon>AbsentStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddNewStudent.resx">
+      <DependentUpon>AddNewStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddResult.resx">
+      <DependentUpon>AddResult.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddUndergraduateInfo.resx">
+      <DependentUpon>AddUndergraduateInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BatchWisePrintResult.resx">
+      <DependentUpon>BatchWisePrintResult.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DueAmount.resx">
+      <DependentUpon>DueAmount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IndividualPayment.resx">
+      <DependentUpon>IndividualPayment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InsertPayment.resx">
+      <DependentUpon>InsertPayment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogInForm.resx">
+      <DependentUpon>LogInForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ShowBloodGroup.resx">
+      <DependentUpon>ShowBloodGroup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentNumberInUniv.resx">
+      <DependentUpon>StudentNumberInUniv.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentWiseResultPrint.resx">
+      <DependentUpon>StudentWiseResultPrint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UnivInfo.resx">
+      <DependentUpon>UnivInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewStudent.resx">
+      <DependentUpon>ViewStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Model\Model.csproj">
+      <Project>{4113d34a-28d6-4fba-9e90-ebcee6b20025}</Project>
+      <Name>Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

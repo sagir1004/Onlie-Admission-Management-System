@@ -1,0 +1,15 @@
+F:\C# project\CoachingManagementSystem\Model\bin\Debug\Model.dll
+F:\C# project\CoachingManagementSystem\Model\bin\Debug\Model.pdb
+F:\C# project\CoachingManagementSystem\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+F:\C# project\CoachingManagementSystem\Model\obj\Debug\Model.dll
+F:\C# project\CoachingManagementSystem\Model\obj\Debug\Model.pdb
+D:\CoachingManagementSystem\Model\bin\Debug\Model.dll
+D:\CoachingManagementSystem\Model\bin\Debug\Model.pdb
+D:\CoachingManagementSystem\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\CoachingManagementSystem\Model\obj\Debug\Model.dll
+D:\CoachingManagementSystem\Model\obj\Debug\Model.pdb
+C:\Users\Laptop Dream\Downloads\Compressed\CoachingManagementSystem\Model\bin\Debug\Model.dll
+C:\Users\Laptop Dream\Downloads\Compressed\CoachingManagementSystem\Model\bin\Debug\Model.pdb
+C:\Users\Laptop Dream\Downloads\Compressed\CoachingManagementSystem\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Laptop Dream\Downloads\Compressed\CoachingManagementSystem\Model\obj\Debug\Model.dll
+C:\Users\Laptop Dream\Downloads\Compressed\CoachingManagementSystem\Model\obj\Debug\Model.pdb
