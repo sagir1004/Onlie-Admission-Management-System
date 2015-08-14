@@ -10,6 +10,7 @@ namespace Model
     {
         public string connection = "Data Source=D:\\CoachingManagementSystem\\CoachingInfo.sdf";
         public string getConnection() {
+
             return connection;
         }
     }
